@@ -1,6 +1,6 @@
 # Webcam Tablet
 Turn any surface on your desk into a functional tablet. 
-<h1><a id="title" href="https://youtu.be/mBDaXqowUFw" target="_blank">Video Tutorial</a></h1>
+<h1><a id="title" href="https://youtu.be/mBDaXqowUFw&t=186s" target="_blank">Video Tutorial</a></h1>
 <img src="./resources/demo.gif"></img>
 <img src="./resources/demosoftware.png"></img>
 <img src="./resources/demo.png"></img>
